@@ -51,6 +51,8 @@ export default {
         id: this.todos.length,
         label: this.currentTodo,
         completed: false,
+        edit: false,
+        done: false,
       });
       this.currentTodo = "";
     },
