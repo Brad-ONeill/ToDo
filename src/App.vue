@@ -105,6 +105,7 @@ body {
   justify-content: center;
   align-items: top;
   padding: 50px;
+  background-color: lightgray;
 }
 
 #container {
